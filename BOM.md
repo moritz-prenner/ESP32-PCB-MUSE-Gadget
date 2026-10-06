@@ -16,7 +16,7 @@
 | [led diodes](https://image.allekabel.de/image/1064080-0/x.jpg) | to blink (i already have them) | 1 | $0.00 | $0.00 | [myself](https://image.allekabel.de/image/1064080-0/x.jpg) |
 | [Seeed Studio XIAO ESP32-S3](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html?srsltid=AU7gw4XaAetIbUbmgFYi_Y7TSmyYbyX_MhBykRocUb3ivfX_TnspTnC1) | a tiny esp32 board | 1 | $7.49 | $7.49 | [SeedStudio](https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html?srsltid=AU7gw4XaAetIbUbmgFYi_Y7TSmyYbyX_MhBykRocUb3ivfX_TnspTnC1) |
 | **Parts subtotal** | — | — | — | **$7.49** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$7.49** | — |
+| **Tax & shipping** | — | — | — | **$10.32** | — |
+| **Total** | — | — | — | **$17.81** | — |
 
-$22.51 left of the tier's funding.
+$12.19 left of the tier's funding.
