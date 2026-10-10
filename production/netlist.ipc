@@ -1,0 +1,60 @@
+P  JOB   muse_gadget_esp32                                                      
+P  CODE  00                                                                     
+P  UNITS CUST 0                                                                 
+P  arrayDim   N                                                                 
+P  VER   IPC-D-356A                                                             
+P  IMAGE PRIMARY                                                                
+P  NNAMEM0000 Net-(U1-D0{slash}GPIO1)                                           
+P  NNAMEM0001 Net-(U1-D2{slash}GPIO3)                                           
+P  NNAMEM0002 Net-(U1-D4{slash}GPIO5)                                           
+P  NNAMEM0003 unconnected-(U1-5V-Pad14)                                         
+P  NNAMEM0004 unconnected-(U1-D10{slash}GPIO9-Pad11)                            
+P  NNAMEM0005 unconnected-(U1-D1{slash}GPIO2-Pad2)                              
+P  NNAMEM0006 unconnected-(U1-D3{slash}GPIO4-Pad4)                              
+P  NNAMEM0007 unconnected-(U1-D5{slash}GPIO6-Pad6)                              
+P  NNAMEM0008 unconnected-(U1-D6{slash}GPIO43-Pad7)                             
+P  NNAMEM0009 unconnected-(U1-D7{slash}GPIO44-Pad8)                             
+P  NNAMEM000A unconnected-(U1-D8{slash}GPIO7-Pad9)                              
+P  NNAMEM000B unconnected-(U1-D9{slash}GPIO8-Pad10)                             
+P  NNAMEM000C unconnected-(U3-NC-Pad3)                                          
+317M0000            U2    -4    D0394PA00X+068232Y-016062X0669Y0000R090 S0      
+317M0000            U1    -1    D0394PA00X+072685Y-015135X0594Y0594R180 S0      
+317M0001            U2    -3    D0394PA00X+069232Y-016062X0669Y0000R090 S0      
+317M0001            U1    -3    D0394PA00X+072685Y-017135X0594Y0000R180 S0      
+317M0002            U3    -2    D0197PA00X+069685Y-051378X0335Y0000R270 S0      
+317M0002            U1    -5    D0394PA00X+072685Y-019135X0594Y0000R180 S0      
+317M0003            U1    -14   D0394PA00X+066685Y-015135X0594Y0000R180 S0      
+317M0004            U1    -11   D0394PA00X+066685Y-018135X0594Y0000R180 S0      
+317M0005            U1    -2    D0394PA00X+072685Y-016135X0594Y0000R180 S0      
+317M0006            U1    -4    D0394PA00X+072685Y-018135X0594Y0000R180 S0      
+317M0007            U1    -6    D0394PA00X+072685Y-020135X0594Y0000R180 S0      
+317M0008            U1    -7    D0394PA00X+072685Y-021135X0594Y0000R180 S0      
+317M0009            U1    -8    D0394PA00X+066685Y-021135X0594Y0000R180 S0      
+317M000A            U1    -9    D0394PA00X+066685Y-020135X0594Y0000R180 S0      
+317M000B            U1    -10   D0394PA00X+066685Y-019135X0594Y0000R180 S0      
+317M000C            U3    -3    D0197PA00X+070079Y-051378X0335Y0000R270 S0      
+317NET-(BZ1-+)      R3    -2    D0315PA00X+056656Y-039055X0630Y0000R300 S0      
+317NET-(BZ1-+)      BZ1   -1    D0394PA00X+068189Y-037205X0787Y0787R000 S0      
+317NET-(BZ1-+)      R5    -2    D0315PA00X+075787Y-049559X0630Y0000R270 S0      
+317NET-(BZ1-+)      U2    -2    D0394PA00X+070232Y-016062X0669Y0000R090 S0      
+317NET-(BZ1-+)      R4    -2    D0315PA00X+062795Y-049878X0630Y0000R270 S0      
+317NET-(BZ1-+)      R6    -2    D0315PA00X+084411Y-041457X0630Y0000R060 S0      
+317NET-(BZ1-+)      U3    -1    D0197PA00X+069291Y-051378X0335Y0335R270 S0      
+317NET-(BZ1-+)      U1    -12   D0394PA00X+066685Y-017135X0594Y0000R180 S0      
+317NET-(BZ1--)      D4    -1    D0354PA00X+085128Y-048622X0709Y0709R000 S0      
+317NET-(BZ1--)      BZ1   -2    D0394PA00X+071181Y-037205X0787Y0000R000 S0      
+317NET-(BZ1--)      D1    -1    D0354PA00X+053240Y-048228X0709Y0709R000 S0      
+317NET-(BZ1--)      D3    -1    D0354PA00X+074394Y-058465X0709Y0709R000 S0      
+317NET-(BZ1--)      D2    -1    D0354PA00X+063764Y-058465X0709Y0709R000 S0      
+317NET-(BZ1--)      U2    -1    D0394PA00X+071232Y-016062X0669Y0669R090 S0      
+317NET-(BZ1--)      U3    -4    D0197PA00X+070472Y-051378X0335Y0000R270 S0      
+317NET-(BZ1--)      U1    -13   D0394PA00X+066685Y-016135X0594Y0000R180 S0      
+317NET-(D1-A)       R3    -1    D0315PA00X+055156Y-041653X0630Y0000R300 S0      
+317NET-(D1-A)       D1    -2    D0354PA00X+054240Y-048228X0709Y0000R000 S0      
+317NET-(D2-A)       D2    -2    D0354PA00X+064764Y-058465X0709Y0000R000 S0      
+317NET-(D2-A)       R4    -1    D0315PA00X+062795Y-052878X0630Y0000R270 S0      
+317NET-(D3-A)       R5    -1    D0315PA00X+075787Y-052559X0630Y0000R270 S0      
+317NET-(D3-A)       D3    -2    D0354PA00X+075394Y-058465X0709Y0000R000 S0      
+317NET-(D4-A)       D4    -2    D0354PA00X+086128Y-048622X0709Y0000R000 S0      
+317NET-(D4-A)       R6    -1    D0315PA00X+082911Y-038858X0630Y0000R060 S0      
+999                                                                             
