@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 9.5h | 3 |
+| Week 1 | Tier 1 | 9h | 3 |
 
 ## Contents
 
@@ -70,7 +70,7 @@ Overall this was a short but productive session. Looking forward I am going to *
 
 ### 2026-10-10 – # DAY 3:
 
-**3h**
+**2.5h**
 
 # DAY 3:
 
