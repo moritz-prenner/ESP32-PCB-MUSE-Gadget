@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 6h | 2 |
+| Week 1 | Tier 1 | 7h | 2 |
 
 ## Contents
 
@@ -49,13 +49,17 @@ Overall I am pretty happy with my progress and I am looking forward to **the nex
 
 ### 2026-10-10 – DAY 2:
 
-**2h**
+**3h**
 
 DAY 2:
 
 Today I **started laying out the pcb.** First things first I drew the outline of the pcb. For this I used a reference Image. The biggest challenge here was understanding how draw curves with the available kicad tools. After tinkering around a bit I came up with a result I liked. (I also tried to make the design **as symmetrical as possible.**)
 
 ![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/57hiQNAgkNbxG5Q8GjhzMk9nORrt5I37/c40b7a93b157bd301ee768a7a8cf85fd05353f6707d020aa4fae97dcdb642756.png)
+
+Also this was my reference Image:
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/57hiQNAgkNbxG5Q8GjhzMk9nORrt5I37/ae86865fe27e651692e0635887a8b864bce797c633ef40c9c45074d276a09799.png)
 
 Next step was to roughly lay out the components on the pcb. I decided that the screen should be **the face of the "muse"**.  Later on into the project it can display little eyes that change at different events. This is the **pre-final layout.** (Maybe I am going to change it later on)
 
