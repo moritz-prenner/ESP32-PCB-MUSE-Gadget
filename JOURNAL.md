@@ -14,15 +14,15 @@
 
 ## Contents
 
-1. [2026-10-09 – # DAY 1 (Friday):](#2026-10-09-day-1-friday)
+1. [2026-10-09 – # DAY 1:](#2026-10-09-day-1)
 
 ## Design
 
-### 2026-10-09 – # DAY 1 (Friday):
+### 2026-10-09 – # DAY 1:
 
 **4h**
 
-# DAY 1 (Friday):
+# DAY 1:
 
 Today I started my first project for Hackclub HalfLife. Because Meta recently announced an **open Source SDK for the Esp32** for their [AI Muse](https://gadgets.muse.ai/), I thought that it might be cool to build a gadget that uses this sdk.
 
