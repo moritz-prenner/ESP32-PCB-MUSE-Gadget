@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 11h | 4 |
+| Week 1 | Tier 1 | 10.5h | 4 |
 
 ## Contents
 
@@ -23,7 +23,7 @@
 
 ### 2026-10-09 – # DAY 1:
 
-**4h**
+**3.5h**
 
 # DAY 1:
 
