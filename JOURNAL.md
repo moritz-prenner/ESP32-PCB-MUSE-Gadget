@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 10h | 3 |
+| Week 1 | Tier 1 | 9.5h | 3 |
 
 ## Contents
 
@@ -50,7 +50,7 @@ Overall I am pretty happy with my progress and I am looking forward to **the nex
 
 ### 2026-10-10 – # DAY 2:
 
-**3h**
+**2.5h**
 
 # DAY 2:
 
