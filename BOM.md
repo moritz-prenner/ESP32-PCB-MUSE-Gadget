@@ -19,7 +19,7 @@
 | [220 ohm resistors](https://i.ebayimg.com/images/g/6woAAOSwQSBfTEs8/s-l1200.png) | for the diodes (i already have them) | 4 | $0.00 | $0.00 | [myself](https://i.ebayimg.com/images/g/6woAAOSwQSBfTEs8/s-l1200.png) |
 | [DHT11 humidity sensor](https://docs.sunfounder.com/projects/umsk/de/latest/_images/19_dht11_module_2.png) | to sense temperature and humidity (i already have it) | 1 | $0.00 | $0.00 | [myself](https://docs.sunfounder.com/projects/umsk/de/latest/_images/19_dht11_module_2.png) |
 | **Parts subtotal** | — | — | — | **$7.49** | — |
-| **Tax & shipping** | — | — | — | **$10.32** | — |
-| **Total** | — | — | — | **$17.81** | — |
+| **Tax & shipping** | — | — | — | **$19.09** | — |
+| **Total** | — | — | — | **$26.58** | — |
 
-$12.19 left of the tier's funding.
+$3.42 left of the tier's funding.
