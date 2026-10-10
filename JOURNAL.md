@@ -15,7 +15,7 @@
 ## Contents
 
 1. [2026-10-09 – # DAY 1:](#2026-10-09-day-1)
-2. [2026-10-10 – DAY 2:](#2026-10-10-day-2)
+2. [2026-10-10 – # DAY 2:](#2026-10-10-day-2)
 3. [2026-10-10 – # DAY 3:](#2026-10-10-day-3)
 
 ## Design
@@ -48,11 +48,11 @@ Before I start the next steps of the design I wanted to **brainstorm a bit on th
 
 Overall I am pretty happy with my progress and I am looking forward to **the next design steps**
 
-### 2026-10-10 – DAY 2:
+### 2026-10-10 – # DAY 2:
 
 **3h**
 
-DAY 2:
+# DAY 2:
 
 Today I **started laying out the pcb.** First things first I drew the outline of the pcb. For this I used a reference Image. The biggest challenge here was understanding how draw curves with the available kicad tools. After tinkering around a bit I came up with a result I liked. (I also tried to make the design **as symmetrical as possible.**)
 
