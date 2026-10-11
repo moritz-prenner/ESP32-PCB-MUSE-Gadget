@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 2 | 13h | 4 |
+| Week 1 | Tier 2 | 14h | 4 |
 
 ## Contents
 
@@ -71,7 +71,7 @@ Overall this was a short but productive session. Looking forward I am going to *
 
 ### 2026-10-10 – # DAY 3:
 
-**3h**
+**4h**
 
 # DAY 3:
 
@@ -85,9 +85,11 @@ After that I drew some silkscreen lines for decoration and started adding symbol
 
 After refining my design for a bit I came up with a finished design, which in exported from kicad and **uploaded to my github repo.**
 
-![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/57hiQNAgkNbxG5Q8GjhzMk9nORrt5I37/a54413443de73523f4a4b1b3c0ba7d622baa6e18d880f764992effc5e59f4302.png)
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/57hiQNAgkNbxG5Q8GjhzMk9nORrt5I37/319cd7060a6ee1040ef6d422d66d9a346bf856e769044732970a239c24502f6f.png)
 
 Overall I am pretty happy about how the pcb turned out. Next up I am going to work **on the firmware.**
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/57hiQNAgkNbxG5Q8GjhzMk9nORrt5I37/a54413443de73523f4a4b1b3c0ba7d622baa6e18d880f764992effc5e59f4302.png)
 
 ### 2026-10-10 – # DAY 4:
 
