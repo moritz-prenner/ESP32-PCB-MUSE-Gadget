@@ -20,7 +20,7 @@
 | [DHT11 humidity sensor](https://docs.sunfounder.com/projects/umsk/de/latest/_images/19_dht11_module_2.png) | to sense temperature and humidity (i already have it) | 1 | $0.00 | $0.00 | [myself](https://docs.sunfounder.com/projects/umsk/de/latest/_images/19_dht11_module_2.png) |
 | [custom pcb](https://jlcpcb.com/) | custom pcb | 1 | $10.10 | $10.10 | [jlcpcb](https://jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$17.59** | — |
-| **Tax & shipping** | — | — | — | **$16.40** | — |
-| **Total** | — | — | — | **$33.99** | — |
+| **Tax & shipping** | — | — | — | **$26.73** | — |
+| **Total** | — | — | — | **$44.32** | — |
 
-**$3.99 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$14.32 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
