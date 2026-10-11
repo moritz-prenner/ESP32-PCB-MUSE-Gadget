@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 2 | 12h | 4 |
+| Week 1 | Tier 2 | 13h | 4 |
 
 ## Contents
 
@@ -91,7 +91,7 @@ Overall I am pretty happy about how the pcb turned out. Next up I am going to wo
 
 ### 2026-10-10 – # DAY 4:
 
-**2h**
+**3h**
 
 # DAY 4:
 
@@ -101,6 +101,9 @@ After I finished the pcb-design I worked on the repo and **finished up the firmw
 
 ## The key problems I had where:
 - the tutorial I followed always mentioned Linux & MacOS but no Windows
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/57hiQNAgkNbxG5Q8GjhzMk9nORrt5I37/09e66d7c8b524f587e765082572d45fff8393e40b8b8eb292a586c0c203fdf09.png)
+
 - I couldn't really extend and hack the firmware because I would need to test it out beforehand (I will add extra feautures later in the build part
 - theoretical firmware design without a practical testing area is kinda hard :)
 
