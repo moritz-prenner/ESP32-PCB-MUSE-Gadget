@@ -1,0 +1,9 @@
+Item,Qty,Supplier,Cost/item,Total Cost,link
+Mini Oled screen,1,myself,$0.00,$0.00,https://m.media-amazon.com/images/I/71303shucqL._AC_SY300_SX300_QL70_ML2_.jpg
+led diodes,4,myself,$0.00,$0.00,https://image.allekabel.de/image/1064080-0/x.jpg
+Seeed Studio XIAO ESP32-S3,1,SeedStudio,$7.49,$7.49,https://www.seeedstudio.com/XIAO-ESP32S3-p-5627.html?srsltid=AU7gw4XaAetIbUbmgFYi_Y7TSmyYbyX_MhBykRocUb3ivfX_TnspTnC1
+buzzer,1,myself,$0.00,$0.00,https://emariete.com/wp-content/uploads/2020/12/zumbador.png
+220 ohm resistors,4,myself,$0.00,$0.00,https://i.ebayimg.com/images/g/6woAAOSwQSBfTEs8/s-l1200.png
+DHT11 humidity sensor,1,myself,$0.00,$0.00,https://docs.sunfounder.com/projects/umsk/de/latest/_images/19_dht11_module_2.png
+custom pcb,1,jlcpcb,$10.10,$10.10,https://jlcpcb.com/
+Estimated total shipping,1,,,$19.27,
