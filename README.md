@@ -12,13 +12,14 @@ This project consists of <ins>a custom designed PCB</ins> that consists of:
 <img width="210" height="162" alt="image" src="https://github.com/user-attachments/assets/4547836f-1f52-4b64-ae30-abd4f85a7253" />
 
 ## INFO ℹ️
+This is a custom pcb. it contains leds and a buzzer. it is powered by ai so it should work autonomous.
 
 This project is powered by Muse AI and [the Open Source ESP32 SDK](https://gadgets.muse.ai/)!  
 This project is also funded by [Hackclub](https://hackclub.com/)
 
 ## WHY ❓
 
-I made this project because I recently heard about this SDK and always wanted to build something that AI autonomous. Also it is easy to make but smart at the same time.
+I made this project because I recently heard about this SDK and always wanted to build something that AI autonomous. Also it is easy to make but smart at the same time. Also this is similar to my last pcb i made only a bit mor intense. Thats why i made it.
 
 ## PCB 🌟
 
